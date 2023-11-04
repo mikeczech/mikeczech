@@ -20,3 +20,5 @@ Hello! I'm a machine learning engineer and data scientist from Hamburg. Diving d
 * Machine Learning
 * Software Development Best Practices
 * Cloud Platforms
+* Mentoring
+* Climbing / Bouldering
