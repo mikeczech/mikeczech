@@ -12,7 +12,6 @@ Hello! I'm a machine learning engineer and data scientist from Hamburg. Diving d
 
 * [Clash](https://github.com/ottogroup/clash): A library for running jobs on the Google Compute Engine.
 * Initial author of [bquest](https://github.com/ottogroup/bquest): A testing framework for BigQuery.
-* [SignCPA](https://github.com/sosy-lab/cpachecker/blob/trunk/src/org/sosy_lab/cpachecker/cpa/sign/SignCPA.java) of the [CPAChecker](https://github.com/sosy-lab/cpachecker/tree/trunk): A software analysis framework.
 
 ## Interests
 
