@@ -8,11 +8,6 @@ Hello! I'm a machine learning engineer and data scientist from Hamburg. Diving d
 * Research and tutoring roles at Paderborn University (Apr 2011 - Sep 2015).
 * Software Engineer at Busitec GmbH (Aug 2007 - Oct 2009).
 
-## Open Source Contributions
-
-* [Clash](https://github.com/ottogroup/clash): A library for running jobs on the Google Compute Engine.
-* Initial author of [bquest](https://github.com/ottogroup/bquest): A testing framework for BigQuery.
-
 ## Interests
 
 * Python, SQL, C++
