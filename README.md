@@ -2,7 +2,8 @@ Hello! I'm a machine learning engineer and data scientist from Hamburg. Diving d
 
 ## Short CV
 
-* (Senior) Data Scientist / Machine Learning Engineer at New Work SE (Oct 2021 - Present).
+* Senior AI Engineer at MOIA (Apr 2026 - Present).
+* (Senior) Data Scientist / Machine Learning Engineer at New Work SE (Oct 2021 - Mar 2026).
 * (Senior) Machine Learning Engineer at Otto Group data.works GmbH (Jun 2018 - Sep 2021).
 * Software Engineer at ThoughtWorks Germany GmbH (Aug 2016  - May 2018).
 * Research and tutoring roles at Paderborn University (Apr 2011 - Sep 2015).
