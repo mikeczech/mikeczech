@@ -1,5 +1,4 @@
-Hello! I'm a machine learning engineer and data scientist from Hamburg. Diving deep into data, crafting machine learning models, and bringing real-world applications to life is what I love. Always eager to learn and share!
-
+Hello! I'm a machine learning engineer and data scientist from Hamburg.
 ## Short CV
 
 * Senior AI Engineer at MOIA (Apr 2026 - Present).
